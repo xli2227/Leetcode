@@ -37,7 +37,7 @@ class Solution {
 /*运用StringBuilder版
 2.String的reverse
 StringBuilder res=new StringBuilder();	
-tringBuffer(word).reverse().toString()   vs  reverse(s.begin(),s.end());
+StringBuffer(word).reverse().toString()   vs  reverse(s.begin(),s.end());
 */
 
 public class Solution {
